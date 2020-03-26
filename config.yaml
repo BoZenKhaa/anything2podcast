@@ -1,0 +1,5 @@
+podcast_http: "http://server/podcasts/podcast_name"
+media_folder: "C:/local_directory/podcasts/podcasts_name"
+podcast_description: "Brief podcast description"
+podcast_title: "Podcast title"
+author: "Author"
